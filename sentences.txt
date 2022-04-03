@@ -1,0 +1,3 @@
+Some identical sentences
+Not identical sentences
+terminal is pre-built
